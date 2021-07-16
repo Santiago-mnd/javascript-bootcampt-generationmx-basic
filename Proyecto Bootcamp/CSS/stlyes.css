@@ -1,0 +1,12 @@
+body{
+    background-image: radial-gradient(circle at 50% 50%, #ff9245 0, #ff7f52 12.5%, #ff6a5b 25%, #ff5461 37.5%, #ff3e63 50%, #e32963 62.5%, #c91863 75%, #b20b64 87.5%, #9e0565 100%);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+h1{
+    text-align: center;
+}
+.description{
+    text-align: center;
+}
